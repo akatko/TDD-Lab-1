@@ -1,0 +1,16 @@
+{
+  "name": "tdd-lab",
+  "version": "1.0.0",
+  "main": "translate.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.5.1",
+    "promptly": "^3.2.0"
+  },
+  "description": ""
+}
